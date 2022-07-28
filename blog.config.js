@@ -2,7 +2,7 @@ const BLOG = {
   title: 'TayaW博客',
   author: 'TayaW',
   email: 'web_zhen@163.com',
-  link: 'https://static.taya163.com',
+  link: 'https://sm.taya163.com',
   description: '纯技术博客',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
